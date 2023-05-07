@@ -1,1 +1,2 @@
-# wordle
+# Wordle
+The purpose of this project is to learn JavaScript DOM manipulation and to practise developing a fully functional and interactive web application. The technologies used for this project are HTML, CSS and JavaScript. As the name implies, the result of this project is the popular word game 'Wordle', where the user tries to guess a particular 5 letter word. The word to guess changes each day, as it is retrieved from an external API that generates a particular word for each day. Once the user correctly guesses the word a message will be shown to congratulate them otherwise they will be shown a message to alert them that they have lost.
